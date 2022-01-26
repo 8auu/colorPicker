@@ -4,4 +4,5 @@ A simple python program to get Hex and RBG color codes from current mouse positi
 
 
 RGB = ctrl + shift + l
+
 HEX = ctrl + shift + k
